@@ -2,6 +2,12 @@
 
 ![An image of Queer Pride](https://octodex.github.com/images/Octoqueer.png)
 
+- [ ] Jellyfin Server repository
+    - [ ] add docker compose
+- [ ] smoking game
+    - [ ] timer
+    - [ ] random number generator
+
 ``` python
 import time
 
